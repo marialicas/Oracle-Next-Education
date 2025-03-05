@@ -1,5 +1,5 @@
 # Estudos ONE 📝
-Neste repositório irei registar um pouco da minha trajetória nos estudos com a Oracle Next Education + Alura.
+Neste repositório irei registrar um pouco da minha trajetória nos estudos com a Oracle Next Education + Alura.
 
 ## Códigos
 Aqui você encontrará os códigos realizados durante as aulas, com auxílio dos professores.
